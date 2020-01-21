@@ -1,7 +1,5 @@
-Edgar
 Raquel
-David
-Jose
+Edgar
 Alexis
 Marco
 Carlos
